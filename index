@@ -4,11 +4,9 @@
     <title>Some stuff</title>
   </head>
   <body>
-    <h1>A sample web page for CS8</h1>
+    <h1>Here is a subject title</h1>
     <p>
-    This is a sample paragraph tag
+    This is an example
     </p>
-    <p> There is a <a href="sample-table.html"> Sample table </p>
-    <p> There is a <a href="fiveSongs.html"> table of five songs</p>
   </body>
 </html>
